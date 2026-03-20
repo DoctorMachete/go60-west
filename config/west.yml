@@ -4,7 +4,7 @@ manifest:
       url-base: https://github.com/moergo-sc
   projects:
     - name: zmk
-      remote: moergo-sc
+      remote: moergo-sc/zmk/pull/36
       revision: main
       import: app/west.yml
   self:
